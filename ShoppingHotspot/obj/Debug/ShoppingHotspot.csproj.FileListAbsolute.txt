@@ -1,0 +1,142 @@
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\ShoppingHotspot.dll.config
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\ShoppingHotspot.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\ShoppingHotspot.pdb
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\csc.exe
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\csc.exe.config
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\csc.rsp
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\csi.exe
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\csi.exe.config
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\csi.rsp
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.AppContext.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Console.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.IO.Compression.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.IO.FileSystem.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.IO.Pipes.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Security.AccessControl.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Security.Claims.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.ValueTuple.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Xml.XPath.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\vbc.exe
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\vbc.exe.config
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\vbc.rsp
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\VBCSCompiler.exe
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\Antlr3.Runtime.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\AspNet.ScriptManager.jQuery.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\Newtonsoft.Json.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\System.Web.Optimization.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\WebGrease.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\System.Web.Optimization.xml
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\Newtonsoft.Json.xml
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\Antlr3.Runtime.pdb
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\obj\Debug\ShoppingHotspot.csproj.CoreCompileInputs.cache
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\obj\Debug\ShoppingHotspot.csproj.CopyComplete
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\obj\Debug\ShoppingHotspot.dll
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\obj\Debug\ShoppingHotspot.pdb
+E:\Projects\Projects\Project\ShoppingHotspot\ShoppingHotspot\obj\Debug\ShoppingHotspot.csprojAssemblyReference.cache
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\ShoppingHotspot.dll.config
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\ShoppingHotspot.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\ShoppingHotspot.pdb
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\csc.exe
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\csc.exe.config
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\csc.rsp
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\csi.exe
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\csi.exe.config
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\csi.rsp
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.AppContext.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Console.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.IO.Compression.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.IO.FileSystem.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.IO.Pipes.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Security.AccessControl.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Security.Claims.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.ValueTuple.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Xml.XPath.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\vbc.exe
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\vbc.exe.config
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\vbc.rsp
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\VBCSCompiler.exe
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\Antlr3.Runtime.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\AspNet.ScriptManager.jQuery.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\Newtonsoft.Json.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\System.Web.Optimization.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\WebGrease.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\System.Web.Optimization.xml
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\Newtonsoft.Json.xml
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\Antlr3.Runtime.pdb
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\obj\Debug\ShoppingHotspot.csprojAssemblyReference.cache
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\obj\Debug\ShoppingHotspot.csproj.CoreCompileInputs.cache
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\obj\Debug\ShoppingHotspot.csproj.CopyComplete
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\obj\Debug\ShoppingHotspot.dll
+E:\Projects .net\Projects\Project\ShoppingHotspot\ShoppingHotspot\obj\Debug\ShoppingHotspot.pdb
